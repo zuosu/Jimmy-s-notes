@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "9ae651980a0a2ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cf36e1e59edaa6e",
+        "type": "leaf",
+        "dimension": 50.25188916876575,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "统计学习&sklearn/5 决策树.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "13a5c539df56fa41"
+      },
+      {
+        "id": "94b0bb2811732610",
+        "type": "leaf",
+        "dimension": 49.74811083123425,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "统计学习&sklearn/5 决策树.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "13a5c539df56fa41"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8dca7db30d0a0e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f06510f48eed80a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1df43ee2fe60bc9f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "96997893067f7627",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bb3bd14577c88d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b40aefd3160f5f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96d608b4eec9124",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "统计学习&sklearn/5 决策树.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1659129f4a74a263",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc87d4d09e0b5ee7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "统计学习&sklearn/5 决策树.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 241.83334350585938,
+    "collapsed": true
+  },
+  "active": "2cf36e1e59edaa6e",
+  "lastOpenFiles": [
+    "统计学习&sklearn/泰坦尼克号幸存者预测案例.md",
+    "统计学习&sklearn/sklearn中的数据预处理和特征工程.md",
+    "数学建模/空气质量预报二次建模.md",
+    "数学建模/大数据分析与建模方法.md",
+    "统计学习&sklearn/5 决策树.md",
+    "科研/中学教育改革.md",
+    "科研/EndNote.md",
+    "Pasted image 20220916185736.png",
+    "一周学会Linux/shell编程/Linux2.png",
+    "统计学习&sklearn/4 朴素贝叶斯.md"
+  ]
+}

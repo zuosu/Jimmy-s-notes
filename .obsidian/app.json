@@ -1,0 +1,14 @@
+{
+  "fileSortOrder": "byCreatedTimeReverse",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 86
+  },
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": false,
+  "readableLineLength": false
+}

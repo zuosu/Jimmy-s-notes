@@ -1,0 +1,122 @@
+{
+  "workspaces": {
+    "Edit": {
+      "main": {
+        "id": "fbb58ca9cf6dbf0f",
+        "type": "split",
+        "children": [
+          {
+            "id": "ddf802d323e11620",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内积、矩阵分解.md",
+                "mode": "source"
+              }
+            },
+            "group": "d2991435ed7265a1"
+          },
+          {
+            "id": "2f8fc67e1b6cc2ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内积、矩阵分解.md",
+                "mode": "preview"
+              }
+            },
+            "group": "d2991435ed7265a1"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "01c79f5ac1559832",
+        "type": "split",
+        "children": [
+          {
+            "id": "433215f6a048a5a8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e368d1d1f56593a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "40bd95859b6fdd06",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 306
+      },
+      "right": {
+        "id": "da1e62988550bdfe",
+        "type": "split",
+        "children": [
+          {
+            "id": "79085aa651009ede",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "913613852b4e59ac",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "内积、矩阵分解.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "69bbeba58ef42dc8",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "内积、矩阵分解.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "active": "ddf802d323e11620"
+    }
+  },
+  "active": "Edit"
+}
